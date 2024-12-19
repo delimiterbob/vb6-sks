@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog>
+  <Settings>
+    <Setting Name="LogFile" Value="SKS.log" />
+    <Setting Name="GenerateInterfacesForClasses" Value="FALSE" />
+    <Setting Name="ProjectName" Value="SKS" />
+    <Setting Name="OutputName" Value="SKS.csproj" />
+    <Setting Name="OutputDir" />
+    <Setting Name="ProjectPath" Value="C:\SKS\SKS_VB6\SKS.vbp" />
+    <Setting Name="MigrateProjectTo" Value="WinExe" />
+  </Settings>
+  <File OldPath="C:\SKS\SKS_VB6\frmMain.frm" NewPath="frmMain.cs" FileType="MDI Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmAbout.frm" NewPath="frmAbout.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmLogin.frm" NewPath="frmLogin.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\modFunctions.bas" NewPath="modFunctions.cs" FileType="Module" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\modConnection.bas" NewPath="modConnection.cs" FileType="Module" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\modMain.bas" NewPath="modMain.cs" FileType="Module" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmSearch.frm" NewPath="frmSearch.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmUsersManage.frm" NewPath="frmUsersManage.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmCustomers.frm" NewPath="frmCustomers.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmProducts.frm" NewPath="frmProducts.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmAdjustStockManual.frm" NewPath="frmAdjustStockManual.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmProviders.frm" NewPath="frmProviders.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmOrderRequest.frm" NewPath="frmOrderRequest.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmAddStockManual.frm" NewPath="frmAddStockManual.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmOrderReception.frm" NewPath="frmOrderReception.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmAddProductTo.frm" NewPath="frmAddProductTo.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmOrderAproval.frm" NewPath="frmOrderAproval.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmActionOrderReception.frm" NewPath="frmActionOrderReception.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmActionOrderRequest.frm" NewPath="frmActionOrderRequest.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmRequestAproval.frm" NewPath="frmRequestAproval.cs" FileType="Form" Upgraded="True" />
+  <File OldPath="C:\SKS\SKS_VB6\frmSplash.frm" NewPath="frmSplash.cs" FileType="Form" Upgraded="True" />
+</UpgradeLog>
+
